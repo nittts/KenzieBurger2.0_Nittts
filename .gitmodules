@@ -1,0 +1,6 @@
+[submodule "KenzieBurger2.0_Front"]
+	path = KenzieBurger2.0_Front
+	url = https://github.com/nittts/KenzieBurger2.0_Front.git
+[submodule "KenzieBurger2.0_JSON-Server"]
+	path = KenzieBurger2.0_JSON-Server
+	url = https://github.com/nittts/KenzieBurger2.0_JSON-Server.git
